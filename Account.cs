@@ -9,6 +9,7 @@ public class Account
     public void Deposit (int amount)
     {
         Console.WriteLine ("Deposit");
+        Console.WriteLine("Michael jobbade med detta");
         Console.WriteLine("Bhuvana jobbade med detta");
     }
 }
